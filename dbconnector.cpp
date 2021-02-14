@@ -1,5 +1,5 @@
 void dbconnector()
 {
-	// DONE!
+	// WELL DONE!
 	return;
 }
